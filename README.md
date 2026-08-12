@@ -50,7 +50,7 @@
 
 <div align="center">
   <!-- Substitua "SEU_USUARIO_AQUI" pelo seu nome de usuário real do GitHub para gerar suas estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonfirsty&show_icons=true&theme=dark" alt="Estatísticas do GitHub do Leonardo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=@dragonfirsty&show_icons=true&theme=dark" alt="Estatísticas do GitHub do Leonardo" />
 </div>
 <!--
 **dragonfirsty/dragonfirsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
