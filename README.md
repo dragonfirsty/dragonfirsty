@@ -42,7 +42,6 @@
   <ul>
     <li><b>PetkoCine:</b> Aplicação Full-stack desenvolvida em Node.js e MongoDB para gerenciamento de dados de filmes e autenticação de usuários.</li>
     <li><b>Automação Cloud Oracle:</b> Script em Python (WSL) com integração via webhook no Discord para automação de instâncias no Free Tier.</li>
-    <li><b>Respiro Yoga:</b> Atuação como Scrum Master na gestão do desenvolvimento de um site vitrine para aulas de yoga.</li>
   </ul>
 </div>
 
@@ -50,7 +49,7 @@
 
 <div align="center">
   <!-- Substitua "SEU_USUARIO_AQUI" pelo seu nome de usuário real do GitHub para gerar suas estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=@dragonfirsty&show_icons=true&theme=dark" alt="Estatísticas do GitHub do Leonardo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonfirsty&show_icons=true&theme=dark" alt="Estatísticas do GitHub do Leonardo" />
 </div>
 <!--
 **dragonfirsty/dragonfirsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
